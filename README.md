@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **maurojohen@gmail.com**
 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg"
+<p align="left"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png"
                          alt="angularjs" width="40" height="40"/> <img
                 src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
                 alt="aws" width="40" height="40"/> <img
