@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johensantos&label=Profile%20views&color=0e75b6&style=flat" alt="johensantos" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johensantos" alt="johensantos" /></a> </p>
+
 
 - 👨‍💻 All of my projects are available at [https://johensantos.github.io/](https://johensantos.github.io/)
 
